@@ -27,9 +27,8 @@ export function About() {
           >
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="https://images.unsplash.com/photo-1596450514537-fae68a81346b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800"
-                alt="InAmigos Foundation community work"
-                className="w-full h-[500px] object-cover"
+                src="/assets/about/main.png"
+                className="w-full h-[600px] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[#0f172a]/40 to-transparent" />
             </div>

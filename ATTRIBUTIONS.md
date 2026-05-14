@@ -1,3 +1,15 @@
-This Figma Make file includes components from [shadcn/ui](https://ui.shadcn.com/) used under [MIT license](https://github.com/shadcn-ui/ui/blob/main/LICENSE.md).
+# Attributions
 
-This Figma Make file includes photos from [Unsplash](https://unsplash.com) used under [license](https://unsplash.com/license).
+This website is built and designed by Gargi Ghosh for **InAmigos Foundation**.
+
+All custom assets including:
+- Logo
+- Project images
+- Hero images
+- Content
+
+are original creations or provided by InAmigos Foundation.
+
+---
+
+No third-party UI libraries or stock images were used in this project.

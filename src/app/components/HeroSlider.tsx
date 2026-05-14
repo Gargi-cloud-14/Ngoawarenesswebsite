@@ -3,22 +3,22 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const slides = [
   {
-    image: "https://images.unsplash.com/photo-1524069290683-0457abfe42c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1920",
+    image: "/assets/hero/slide2.png",
     title: "Shaping Young Minds, Preserving Culture",
     subtitle: "BachpanSala – Where education meets tradition and dreams take flight.",
   },
   {
-    image: "https://images.unsplash.com/photo-1694286068611-d0c24cbc2cd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1920",
+    image: "/assets/hero/slide4.png",
     title: "One Hand Can Feed Hope",
     subtitle: "Compassion in action. Every meal, every smile, every life matters.",
   },
   {
-    image: "https://images.unsplash.com/photo-1692609659165-1ec4d8108c0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1920",
+    image: "/assets/hero/slide3.png",
     title: "Caring for the Future Generation",
     subtitle: "Healthy children and empowered mothers – building a stronger tomorrow.",
   },
   {
-    image: "https://images.unsplash.com/photo-1707760509904-1507ee621999?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1920",
+    image: "/assets/hero/slide1.png",
     title: "Together, We Create Lasting Change",
     subtitle: "United by compassion, driven by purpose, changing lives every day.",
   },

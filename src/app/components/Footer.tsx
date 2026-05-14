@@ -30,10 +30,12 @@ export function Footer() {
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
           {/* Brand */}
           <div className="lg:col-span-1">
-            <div className="flex items-center gap-3 mb-5">
-              <div className="w-10 h-10 rounded-full bg-gradient-to-br from-[#2563eb] to-[#f97316] flex items-center justify-center shadow-lg">
-                <Heart size={18} className="text-white fill-white" />
-              </div>
+              <div className="flex items-center gap-3 mb-5">
+                <img 
+                  src="/assets/logo/logo.png" 
+                  alt="InAmigos Foundation" 
+                  className="w-40 h-40 object-contain"
+                />
               <div>
                 <div className="text-white font-bold">InAmigos</div>
                 <div className="text-[#f97316] text-xs font-semibold">Foundation</div>
@@ -130,7 +132,10 @@ export function Footer() {
             © {new Date().getFullYear()} InAmigos Foundation. All rights reserved.
           </p>
           <p className="text-white/30 text-sm flex items-center gap-1.5">
-            Made with <Heart size={13} className="text-[#f97316] fill-[#f97316]" /> for a compassionate India
+            Made with <Heart size={13} className="text-[#f97316] fill-[#f97316]" /> for a compassionate India 
+          </p>
+          <p className="text-white/30 text-sm">
+            Designed & Developed by Gargi Ghosh
           </p>
         </div>
       </div>

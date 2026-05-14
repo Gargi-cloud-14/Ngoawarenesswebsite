@@ -3,42 +3,42 @@ import { ArrowRight } from "lucide-react";
 
 const projects = [
   {
-    image: "https://images.unsplash.com/photo-1603185030522-05d4497bb180?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+    image: "/assets/projects/bachpansala.png",
     title: "BachpanSala",
     tagline: "Nurturing Young Minds, Building Bright Futures",
     description: "Quality education, digital literacy, and cultural awareness for underprivileged children.",
     color: "#2563eb",
   },
   {
-    image: "https://images.unsplash.com/photo-1616674202799-054e7c831378?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+    image:"/assets/projects/Udaan.png",
     title: "Udaan",
     tagline: "Soaring Towards Independence",
     description: "Women empowerment through skill development, financial literacy, and self-help groups.",
     color: "#f97316",
   },
   {
-    image: "https://images.unsplash.com/photo-1654575689675-7e6020abf716?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+    image: "/assets/projects/Jeev.png",
     title: "Jeev",
     tagline: "Compassion for All Beings",
     description: "Daily feeding and care for stray animals with a dedicated volunteer network.",
     color: "#16a34a",
   },
   {
-    image: "https://images.unsplash.com/photo-1660015154403-0fd84e5d810d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+    image: "/assets/projects/Seva.png",
     title: "Seva",
     tagline: "Serving with Love",
     description: "Distribution of meals, clothes, and essential aid to the needy and vulnerable.",
     color: "#dc2626",
   },
   {
-    image: "https://images.unsplash.com/photo-1708592956177-d29b4b4ce348?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+    image: "/assets/projects/prakriti.png",
     title: "Prakriti",
     tagline: "Planting Hope for Tomorrow",
     description: "Massive tree plantation drives and environmental awareness programs.",
     color: "#059669",
   },
   {
-    image: "https://images.unsplash.com/photo-1690356107685-3725367f6f3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+    image: "/assets/projects/vikas.png",
     title: "Vikas",
     tagline: "Unlocking Potential",
     description: "Skill development and internship programs empowering 30,000+ youth.",

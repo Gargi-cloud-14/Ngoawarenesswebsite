@@ -39,10 +39,15 @@ export function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
-          <div className="flex items-center gap-3 cursor-pointer" onClick={() => handleNavClick("#home")}>
-            <div className="w-10 h-10 rounded-full bg-gradient-to-br from-[#2563eb] to-[#f97316] flex items-center justify-center shadow-lg">
-              <Heart size={20} className="text-white fill-white" />
-            </div>
+          <div 
+              className="flex items-center gap-3 cursor-pointer" 
+              onClick={() => handleNavClick("#home")}
+          >
+            <img 
+                src="/assets/logo/logo.png" 
+                alt="InAmigos Foundation" 
+                className="h-12 w-auto object-contain drop-shadow-lg"
+            />
             <div className="leading-tight">
               <div className="text-white font-bold text-base">InAmigos</div>
               <div className="text-[#f97316] font-semibold text-xs tracking-wide">Foundation</div>
@@ -62,7 +67,7 @@ export function Navbar() {
               </button>
             ))}
             <a
-              href="#"
+              href="https://inamigosfoundation.org.in/"
               className="px-5 py-2.5 bg-gradient-to-r from-[#2563eb] to-[#1d4ed8] text-white text-sm font-semibold rounded-full hover:shadow-lg hover:shadow-blue-500/30 hover:-translate-y-0.5 transition-all duration-300"
             >
               Visit Official Website

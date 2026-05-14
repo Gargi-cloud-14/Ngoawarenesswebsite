@@ -3,35 +3,35 @@ import { ZoomIn } from "lucide-react";
 
 const galleryImages = [
   {
-    src: "https://images.unsplash.com/photo-1524069290683-0457abfe42c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+    src: "/assets/gallery/gallery1.png",
     alt: "Children community",
   },
   {
-    src: "https://images.unsplash.com/photo-1603185030522-05d4497bb180?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+    src: "/assets/gallery/gallery2.png",
     alt: "Education initiative",
   },
   {
-    src: "https://images.unsplash.com/photo-1616674202799-054e7c831378?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+    src: "/assets/gallery/gallery3.png",
     alt: "Women empowerment",
   },
   {
-    src: "https://images.unsplash.com/photo-1660015154403-0fd84e5d810d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+    src: "/assets/gallery/gallery4.png",
     alt: "Food distribution",
   },
   {
-    src: "https://images.unsplash.com/photo-1708592956177-d29b4b4ce348?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+    src: "/assets/gallery/gallery5.png",
     alt: "Tree plantation",
   },
   {
-    src: "https://images.unsplash.com/photo-1692609659165-1ec4d8108c0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
-    alt: "Community children",
+    src: "/assets/gallery/gallery6.png",
+    alt: "Animal Welfare",
   },
   {
-    src: "https://images.unsplash.com/photo-1654575689675-7e6020abf716?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
-    alt: "Animal welfare",
+    src: "/assets/gallery/gallery7.png",
+    alt: "Smiling Face of People",
   },
   {
-    src: "https://images.unsplash.com/photo-1596450514537-fae68a81346b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+    src: "/assets/gallery/gallery8.png",
     alt: "Volunteer work",
   },
 ];

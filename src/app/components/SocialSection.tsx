@@ -3,7 +3,7 @@ import { useEffect, useRef, useState } from "react";
 const socials = [
   {
     name: "Instagram",
-    href: "#",
+    href: "https://instagram.com/inamigos?utm_medium=copy_link",
     color: "#E1306C",
     bg: "linear-gradient(135deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%)",
     icon: (
@@ -14,7 +14,7 @@ const socials = [
   },
   {
     name: "LinkedIn",
-    href: "#",
+    href: "https://www.linkedin.com/company/inamigos-foundation",
     color: "#0077B5",
     bg: "#0077B5",
     icon: (
@@ -25,7 +25,7 @@ const socials = [
   },
   {
     name: "Facebook",
-    href: "#",
+    href: "https://www.facebook.com/share/1CeyCkB3uL/",
     color: "#1877F2",
     bg: "#1877F2",
     icon: (
@@ -36,7 +36,7 @@ const socials = [
   },
   {
     name: "YouTube",
-    href: "#",
+    href: "https://youtube.com/@inamigosfoundation?si=lcyRib3x-bScUF5M",
     color: "#FF0000",
     bg: "#FF0000",
     icon: (
@@ -46,8 +46,19 @@ const socials = [
     ),
   },
   {
+  name: "Twitter",
+  href: "https://twitter.com/InamigosF?s=08",
+  color: "#000000",
+  bg: "#000000",
+  icon: (
+    <svg viewBox="0 0 24 24" fill="currentColor" className="w-7 h-7">
+      <path d="M18.901 1.153h3.68l-8.04 9.19L24 22.847h-7.477l-5.852-7.664L4.3 22.847H.577L9.06 12.93 0 1.153h7.64l5.27 6.97 5.99-6.97zM17.11 20.5h1.68L6.85 3.5H5.06L17.11 20.5z" />
+    </svg>
+  ),
+},
+  {
     name: "Website",
-    href: "#",
+    href: "https://inamigosfoundation.org.in/",
     color: "#2563eb",
     bg: "#2563eb",
     icon: (

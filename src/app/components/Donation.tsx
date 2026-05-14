@@ -32,9 +32,8 @@ export function Donation() {
           >
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="https://images.unsplash.com/photo-1617878227827-8360231f7f03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800"
-                alt="Donation - changing lives"
-                className="w-full h-[500px] object-cover"
+                src="/assets/donations/donate.png"
+                className="w-full h-[700px] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-tr from-[#2563eb]/40 to-transparent" />
             </div>
@@ -76,7 +75,7 @@ export function Donation() {
             </div>
 
             <a
-              href="#"
+              href="https://pages.razorpay.com/pl_H621G6ea64ZMl7/view"
               className="inline-flex items-center gap-3 px-10 py-5 bg-gradient-to-r from-[#f97316] to-[#ea580c] text-white rounded-full hover:shadow-2xl hover:shadow-orange-400/40 hover:-translate-y-1 transition-all duration-300"
               style={{ fontSize: "1.1rem", fontWeight: 700 }}
             >
@@ -84,7 +83,7 @@ export function Donation() {
               Donate Now
             </a>
             <p className="text-gray-400 text-xs mt-4">
-              * Donations are tax deductible under 80G. All funds used transparently.
+               All funds used transparently.
             </p>
           </div>
         </div>
